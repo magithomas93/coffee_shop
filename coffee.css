@@ -3,6 +3,9 @@ h1{
     margin-left: 400px;
     
 }
+.text-right{
+    text-align: right;
+}
 img{
     width:800px;
     height: 400px;
